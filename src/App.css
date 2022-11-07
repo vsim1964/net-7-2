@@ -1,0 +1,22 @@
+body {
+    width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+.control {
+    text-align: right;
+    padding: 10px 10px 10px 0;
+}
+
+.material-icons {
+    cursor: pointer;
+    font-size: 48px;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    row-gap: 20px;
+    column-gap: 20px;
+}
